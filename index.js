@@ -1,6 +1,6 @@
 
 const wt = prompt("Enter your weight; ");
-const ht = prompt("Eenter your height; ");
+const ht = prompt("Enter your height; ");
 // function bmi(wt, ht) {
 // BMI = wt / ht**2;
 // return BMI
@@ -29,7 +29,7 @@ bmi();
 //second question
 function movie() {
     const name = prompt("Enter your name; ");
-    const age = prompt("Eenter your age; ");
+    const age = prompt("Enter your age; ");
     const accompanied = prompt("Are you with adult - Yes or No? ");
 
     let pass;
